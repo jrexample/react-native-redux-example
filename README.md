@@ -13,7 +13,7 @@ react-native run-android
 - Redux
 
 ## Author
-[Jacky Rusly](https://www.jackyrusly.web.id)
+[Jacky Rusly](https://www.jackyrusly.com)
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
